@@ -6,6 +6,8 @@ pkg upgrade
 
 pkg install php
 
-termux-setup-storage
+cd tdsvip
 
-tdsvip && php tdstokenvip.php
+php tdstokenvip.php
+
+
